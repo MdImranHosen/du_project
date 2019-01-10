@@ -16,6 +16,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<link rel="icon" href="icon.png">
 <style type="text/css">
 
 .page {
@@ -127,10 +128,10 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
      <td width="52%" valign="top">
         <table style="text-align:center;">
 		   <tbody><tr>
-		      <td><img src="Dhaka_University_logo.svg" style="width:70px; height:80px;"></td>
+		      <td><img src="logo.png" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -557,7 +558,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -605,7 +606,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -719,7 +720,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -1146,7 +1147,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -1194,7 +1195,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -1282,7 +1283,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -1709,7 +1710,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -1757,7 +1758,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -1845,7 +1846,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -2272,7 +2273,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -2320,7 +2321,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -2408,7 +2409,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -2835,7 +2836,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -2883,7 +2884,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -2971,7 +2972,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -3398,7 +3399,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -3446,7 +3447,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -3534,7 +3535,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -3961,7 +3962,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -4009,7 +4010,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -4097,7 +4098,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -4524,7 +4525,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -4572,7 +4573,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -4660,7 +4661,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -5087,7 +5088,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -5135,7 +5136,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -5223,7 +5224,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -5650,7 +5651,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -5698,7 +5699,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -5786,7 +5787,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -6213,7 +6214,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -6261,7 +6262,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -6349,7 +6350,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -6776,7 +6777,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -6824,7 +6825,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -6912,7 +6913,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -7339,7 +7340,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -7387,7 +7388,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -7475,7 +7476,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -7902,7 +7903,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -7950,7 +7951,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -8038,7 +8039,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -8465,7 +8466,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -8513,7 +8514,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -8601,7 +8602,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -9028,7 +9029,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -9076,7 +9077,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -9164,7 +9165,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -9591,7 +9592,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -9639,7 +9640,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -9727,7 +9728,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -10154,7 +10155,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -10202,7 +10203,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -10290,7 +10291,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -10717,7 +10718,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -10765,7 +10766,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -10853,7 +10854,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -11280,7 +11281,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -11328,7 +11329,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
@@ -11416,7 +11417,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 		      <td><img src="./Dhaka Coll_Bangla_marks_files/logob.jpg" style="width:70px; height:80px;"></td>
 		   </tr>
 		   <tr>
-		      <td style="font-size:15px; font-weight:bolder;">UNIVERSITY OF DHAKA</td>
+		      <td style="font-size:15px; font-weight:bolder;">Victoria University of Bangladesh</td>
 		   </tr>
 		   <tr>
 		      <td>Grade Certificate/Academic Transcript	</td>
@@ -11843,7 +11844,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
             <td style="text-align:center;">
 			   <span style="font-size:10px; font-weight:bolder;">
 				ADMINISTRATIVE BUILDING	<br>		
-				UNIVERSITY OF DHAKA <br>	
+				Victoria University of Bangladesh <br>	
                </span>	
                <span style="font-size:11px;">			   
 				NILKHET, DHAKA-1000	<br>		
@@ -11891,7 +11892,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
          <tbody><tr>
 			<td style="font-size:12px;  text-align:center; font-weight:bolder;">
 				<i>Deputy Controller of Examinations</i><br>		
-				UNIVERSITY OF DHAKA			
+				Victoria University of Bangladesh			
 			</td>
          </tr>
        </tbody></table>
